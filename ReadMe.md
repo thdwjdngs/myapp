@@ -2,3 +2,4 @@
 ## 1. Git init
 ### 2. pull vs fetch
 #### 3. 40705
+##### 4. amend 추가 Test
